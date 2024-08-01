@@ -1,3 +1,3 @@
 ./build/Desktop-Release/feh-gui
 feh-gui.pro.user
-build/Desktop-Release/.tmp
+./build/Desktop-Release/.tmp
