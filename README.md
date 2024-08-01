@@ -1,12 +1,12 @@
 
+
 # feh-gui
 
 Manage all your wallpapers in one simple app.
 
-#
 ![App Screenshot](https://github.com/antomfdez/feh-gui/blob/main/ex.png)
 
-## Installation:
+## Installation: _Deps_: ```qt6 qmake base-devel```
 ### Clone:
 ```
 git clone https://github.com/antomfdez/feh-gui.git
@@ -40,3 +40,4 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
