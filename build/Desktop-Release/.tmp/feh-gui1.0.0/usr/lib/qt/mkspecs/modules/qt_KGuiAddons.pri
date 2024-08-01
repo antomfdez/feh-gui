@@ -1,0 +1,12 @@
+QT.KGuiAddons.VERSION = 5.116.0
+QT.KGuiAddons.MAJOR_VERSION = 5
+QT.KGuiAddons.MINOR_VERSION = 116
+QT.KGuiAddons.PATCH_VERSION = 0
+QT.KGuiAddons.name = KF5GuiAddons
+QT.KGuiAddons.module = KF5GuiAddons
+QT.KGuiAddons.defines = 
+QT.KGuiAddons.includes =  $$PWD/../../../../include/KF5/KGuiAddons
+QT.KGuiAddons.private_includes =
+QT.KGuiAddons.libs = $$PWD/../../../../lib
+QT.KGuiAddons.depends = gui
+QT.KGuiAddons.module_config = 
