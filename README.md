@@ -37,3 +37,6 @@ Don't forget to give the project a star! Thanks again!
 - [@FadaBoop](https://www.github.com/FadaBoop)
 - [@antomfdez](https://www.github.com/antomfdez)
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
