@@ -6,7 +6,7 @@ Manage all your wallpapers in one simple app.
 
 ![App Screenshot](https://github.com/antomfdez/feh-gui/blob/main/ex.png)
 
-## Installation: _Deps_: ```qt6 qmake base-devel```
+## Installation: _Deps_: ```feh qt6 qmake base-devel```
 ### Clone:
 ```
 git clone https://github.com/antomfdez/feh-gui.git
